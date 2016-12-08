@@ -1,2 +1,4 @@
 # frontend-workflow.github.io
-A simple basic template for FrontEnd Developers
+A simple basic workflow for FrontEnd Developers
+
+Go TO: https://arifkarimm.github.io/frontend-workflow.github.io/
